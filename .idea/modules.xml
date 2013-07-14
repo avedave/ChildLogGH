@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ChildLogGH/ChildLogGH.iml" filepath="$PROJECT_DIR$/ChildLogGH/ChildLogGH.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ChildLogGHProject.iml" filepath="$PROJECT_DIR$/ChildLogGHProject.iml" />
+    </modules>
+  </component>
+</project>
+
